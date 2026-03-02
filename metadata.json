@@ -1,0 +1,5 @@
+{
+  "name": "Solitaire Master",
+  "description": "A classic Klondike Solitaire game with auto-complete and move detection features.",
+  "requestFramePermissions": []
+}
